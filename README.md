@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A Computer Engineering.</h3>
 
-- 🔭 I’m currently working on **SSO AUTH FOR RouterOS**
+- 🔭 I’m currently working on **SSO Auth for RouterOS devices.**
 
 - 🌱 I’m currently learning **Js,NodeJS;**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vinidev69@gmail.com**
 
-- 📄 Know about my experiences [Firewall, Infrastructure, Development](Firewall, Infrastructure, Development)
+- 📄 Know about my experiences [Infrastructure, Development,Security](Infrastructure, Development,Security)
 
 - ⚡ Fun fact **I love challenges.**
 
