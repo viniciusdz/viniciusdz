@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vinidev69@gmail.com**
 
-- 📄 Know about my experiences [Infrastructure, Development,Security](Infrastructure, Development,Security)
+- 📄 Know about my experiences [Infrastructure, Development, Security](Infrastructure, Development, Security)
 
 - ⚡ Fun fact **I love challenges.**
 
