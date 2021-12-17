@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A Computer Engineering Student.</h3>
+<h3 align="center">A Computer Engineering.</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **SSO AUTH FOR RouterOS**
 
 - 🌱 I’m currently learning **Js,NodeJS;**
 
